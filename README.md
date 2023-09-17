@@ -6,7 +6,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I am a Full Stack Developer at  🚀 [AMB International](https://bio-pro-larbi-ishak.vercel.app/) 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, Go, MongoDB, React, Nextjs, AWS, etc. I've built diverse projects covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, ,Python, Go, Sql(MySql, PostgreSql), NoSql(MongoDB), React, Nextjs, AWS, etc. I've built diverse projects covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
 Feel free to connect with me @larbi-ishak for all things tech or just to say hello! 
 
