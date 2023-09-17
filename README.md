@@ -1,36 +1,22 @@
-## Hey there 👋, I'm [Pavan!](https://github.com/iampavangandhi/)
+## Hey there 👋, I'm [Pavan!](https://github.com/larbi-ishak/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/LARBIIshak3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/larbishak)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
+I am a Full Stack Developer at  🚀 [AMB Internation](https://bio-pro-larbi-ishak.vercel.app/) 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+Feel free to connect with me @larbi-ishak for all things tech or just to say hello! 
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **5** years ago.
+Joined Github **3** years ago.
 
 Since then I pushed **2809**+ commits, opened **229**+ issues, submitted **301**+ pull requests, created **20**+ gists and contributed to **14**+ public repositories.
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+<a href="https://www.buymeacoffee.com/larbishak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### My Absolute Favorites:
 
