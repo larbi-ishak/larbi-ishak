@@ -12,7 +12,7 @@ Feel free to connect with me @larbi-ishak for all things tech or just to say hel
 
 Joined Github **3** years ago.
 
-Since then I pushed **2809**+ commits, opened **229**+ issues, submitted **301**+ pull requests, created **20**+ gists and contributed to **14**+ public repositories.
+Since then I pushed **90**+ commits, opened **2**+ issues, submitted **3**+ pull requests and contributed to **14**+ public repositories.
 
 Like My Work?
 
