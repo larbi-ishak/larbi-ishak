@@ -1,8 +1,5 @@
 ## Hey there 👋, I'm [LARBI!](https://github.com/larbi-ishak/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/larbizyo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/larbishak)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I am a Software Developer at 🚀 [AMB International](https://bio-pro-larbi-ishak.vercel.app/)
